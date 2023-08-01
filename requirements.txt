@@ -1,0 +1,8 @@
+streamlit==1.24.1
+plotly==5.9.0
+plotly.express==0.4.1
+pandas==1.5.3
+haversine==2.8.0
+Pillow==9.4.0
+streamlit-folium==0.13.0
+folium==0.14.0
